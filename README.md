@@ -1,2 +1,3 @@
 # awesome-ai-resources
-Learn AI using free resources
+
+This repository contains free resources to learn everything AI including LLMs and Agents
