@@ -15,21 +15,27 @@ This repository contains free resources to learn everything AI including LLMs an
 - [Deep Learning Specialization (Andrew Ng)](https://www.coursera.org/specializations/deep-learning)
 - [Practical Deep Learning for Coders](https://course.fast.ai/)
 
+## Generative AI
+- [Generative AI for Everyone](https://www.coursera.org/learn/generative-ai-for-everyone)
+
 ## Large Language Models (LLMs)
 - [Large Language Models explained briefly](https://www.youtube.com/watch?v=LPZh9BOjkQs)
 - [Intro to LLMs](https://www.youtube.com/watch?v=zjkBMFhNj_g&pp=ygUDbGxt)
+- [How Transformer LLMs Work](https://www.deeplearning.ai/short-courses/how-transformer-llms-work/)
 - [LLM Course (GitHub)](https://github.com/mlabonne/llm-course)
 - [Awesome LLM Apps (GitHub)](https://github.com/Shubhamsaboo/awesome-llm-apps)
 
 ## Prompt Engineering
 - [Google Prompting Essentials](https://www.coursera.org/google-learn/prompting-essentials)
 - [ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
+- [Getting Structured LLM Output](https://www.deeplearning.ai/short-courses/getting-structured-llm-output/)
 
 ## Retrieval-Augmented Generation (RAG)
 - [Introduction to RAG](https://www.coursera.org/projects/introduction-to-rag)
 
 ## AI Agents
 - [AI Agents Course (Hugging Face)](https://huggingface.co/learn/agents-course/)
+- [Building AI Browser Agents](https://www.deeplearning.ai/short-courses/building-ai-browser-agents/)
 
 ## Model Context Protocol (MCP)
 - [Awesome MCP Servers](https://github.com/punkpeye/awesome-mcp-servers)
