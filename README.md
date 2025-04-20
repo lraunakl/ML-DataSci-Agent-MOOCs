@@ -28,7 +28,8 @@ This repository contains free resources to learn everything AI including LLMs an
 ## Prompt Engineering
 - [Google Prompting Essentials](https://www.coursera.org/google-learn/prompting-essentials)
 - [ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
-- [Getting Structured LLM Output](https://www.deeplearning.ai/short-courses/getting-structured-llm-output/)
+- [Advanced Prompting Techniques - Instructor](https://python.useinstructor.com/prompting/)
+- [Getting Structured LLM Output - Deeplearning.ai](https://www.deeplearning.ai/short-courses/getting-structured-llm-output/)
 
 ## Retrieval-Augmented Generation (RAG)
 - [Introduction to RAG](https://www.coursera.org/projects/introduction-to-rag)
