@@ -1,6 +1,29 @@
 # Awesome AI Resources
 
-This repository contains free resources to learn everything AI including LLMs and Agents
+A comprehensive collection of free resources to learn everything about AI, including Large Language Models (LLMs) and AI Agents.
+
+## Table of Contents
+- [Awesome AI Resources](#awesome-ai-resources)
+  - [Table of Contents](#table-of-contents)
+  - [Mathematical Foundations](#mathematical-foundations)
+  - [Machine Learning](#machine-learning)
+    - [Machine Learning Frameworks](#machine-learning-frameworks)
+  - [Deep Learning](#deep-learning)
+    - [Deep Learning Frameworks](#deep-learning-frameworks)
+  - [Generative AI](#generative-ai)
+  - [Large Language Models (LLMs)](#large-language-models-llms)
+    - [LLM Frameworks](#llm-frameworks)
+  - [Prompt Engineering](#prompt-engineering)
+  - [Retrieval-Augmented Generation (RAG)](#retrieval-augmented-generation-rag)
+  - [AI Agents](#ai-agents)
+  - [Model Context Protocol (MCP)](#model-context-protocol-mcp)
+  - [Tools](#tools)
+    - [Chatbots](#chatbots)
+    - [AI IDEs](#ai-ides)
+  - [Experiment \& Deployment](#experiment--deployment)
+  - [Books](#books)
+  - [YouTube Channels](#youtube-channels)
+  - [Must-Read AI Papers](#must-read-ai-papers)
 
 ## Mathematical Foundations
 - [Essence of Linear Algebra (3Blue1Brown)](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
@@ -10,7 +33,8 @@ This repository contains free resources to learn everything AI including LLMs an
 ## Machine Learning
 - [Machine Learning Crash Course (Google)](https://developers.google.com/machine-learning/crash-course)
 - [Machine Learning Specialization (Andrew Ng)](https://www.coursera.org/specializations/machine-learning-introduction)
-#### Machine Learning Frameworks
+
+### Machine Learning Frameworks
 - [Scikit-learn](https://scikit-learn.org/stable/)
 - [XGBoost](https://xgboost.ai/)
 - [LightGBM](https://lightgbm.readthedocs.io/en/stable/)
@@ -19,7 +43,8 @@ This repository contains free resources to learn everything AI including LLMs an
 ## Deep Learning
 - [Deep Learning Specialization (Andrew Ng)](https://www.coursera.org/specializations/deep-learning)
 - [Practical Deep Learning for Coders](https://course.fast.ai/)
-#### Deep Learning Frameworks
+
+### Deep Learning Frameworks
 - [TensorFlow](https://www.tensorflow.org/)
 - [PyTorch](https://pytorch.org/)
 - [Keras](https://keras.io/)
@@ -41,7 +66,8 @@ This repository contains free resources to learn everything AI including LLMs an
 - [How Transformer LLMs Work](https://www.deeplearning.ai/short-courses/how-transformer-llms-work/)
 - [LLM Course (GitHub)](https://github.com/mlabonne/llm-course)
 - [Awesome LLM Apps (GitHub)](https://github.com/Shubhamsaboo/awesome-llm-apps)
-#### LLM Frameworks
+
+### LLM Frameworks
 - [LangChain](https://www.langchain.com/)
 - [LlamaIndex](https://www.llamaindex.ai/)
 
@@ -66,12 +92,12 @@ This repository contains free resources to learn everything AI including LLMs an
 - [Awesome MCP Servers (Github)](https://github.com/punkpeye/awesome-mcp-servers)
 
 ## Tools
-#### Chatbots
+### Chatbots
 - [ChatGPT](https://chatgpt.com/)
 - [Claude](https://claude.ai/new)
 - [Perplexity](https://www.perplexity.ai/)
 
-#### AI IDEs
+### AI IDEs
 - [Cursor](https://www.cursor.com/)
 - [Windsurf](https://windsurf.com/editor)
 
@@ -85,7 +111,7 @@ This repository contains free resources to learn everything AI including LLMs an
 - [Deep Learning with Python](https://www.amazon.in/Deep-Learning-Python-Francois-Chollet/dp/1617294438/)
 - [Why Machines Learn](https://www.amazon.com/Why-Machines-Learn-Elegant-Behind/dp/0593185749)
 
-## Youtube Channels
+## YouTube Channels
 - [Andrej Karpathy](https://www.youtube.com/@AndrejKarpathy)
 - [3Blue1Brown](https://www.youtube.com/@3blue1brown)
 
