@@ -41,6 +41,7 @@ A comprehensive collection of free resources to learn everything about AI, inclu
 ## Deep Learning
 - [Deep Learning Specialization (Andrew Ng)](https://www.coursera.org/specializations/deep-learning)
 - [Practical Deep Learning for Coders](https://course.fast.ai/)
+- [Mathematics for Deep Learning](https://d2l.ai/chapter_appendix-mathematics-for-deep-learning/)
 
 ### Deep Learning Frameworks
 - [TensorFlow](https://www.tensorflow.org/)
