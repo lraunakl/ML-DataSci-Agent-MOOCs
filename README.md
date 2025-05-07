@@ -72,7 +72,8 @@ A comprehensive collection of free resources to learn everything about AI, inclu
 - [GenAI Agents - Github](https://github.com/NirDiamant/GenAI_Agents)
 
 ## Model Context Protocol (MCP)
-- [Awesome MCP Servers (Github)](https://github.com/punkpeye/awesome-mcp-servers)
+- [MCP - Anthropic Guide](https://modelcontextprotocol.io/introduction)
+- [Awesome MCP Servers - Github](https://github.com/punkpeye/awesome-mcp-servers)
 
 ## Tools
 ### Chatbots
