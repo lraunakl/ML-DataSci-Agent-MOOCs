@@ -97,6 +97,7 @@ A comprehensive collection of free resources to learn everything about AI, inclu
 - [Designing Machine Learning Systems](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/)
 - [AI Engineering](https://www.oreilly.com/library/view/ai-engineering/9781098166298/)
 - [Build a LLM from Scratch](https://www.manning.com/books/build-a-large-language-model-from-scratch)
+- [Prompt Engineering for LLMs](https://www.oreilly.com/library/view/prompt-engineering-for/9781098156145/)
 
 ## YouTube Channels
 - [Andrej Karpathy](https://www.youtube.com/@AndrejKarpathy)
