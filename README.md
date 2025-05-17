@@ -1,6 +1,6 @@
 # Awesome AI Resources
 
-A comprehensive collection of free resources to learn everything about AI, including Large Language Models (LLMs) and AI Agents.
+A comprehensive collection of free resources to learn everything about AI, LLMs and AI Agents.
 
 ## Mathematical Foundations
 - [Essence of Linear Algebra - 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
