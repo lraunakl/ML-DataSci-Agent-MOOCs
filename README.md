@@ -8,6 +8,9 @@ A comprehensive collection of free resources to learn everything about AI, LLMs 
 - [Statistics Fundamentals - Josh Strarmer](https://www.youtube.com/playlist?list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9)
 - [Mathematics for Machine Learning Specialization - Coursera (Andrew Ng)](https://www.coursera.org/specializations/mathematics-machine-learning)
 
+## Python
+- [AI Python for Beginners - Deeplearning.ai](https://www.deeplearning.ai/short-courses/ai-python-for-beginners/)
+
 ## AI & ML Fundamentals
 - [Machine Learning Crash Course - Google](https://developers.google.com/machine-learning/crash-course)
 - [AI for Beginners – Microsoft](https://microsoft.github.io/AI-For-Beginners/)
@@ -73,6 +76,7 @@ A comprehensive collection of free resources to learn everything about AI, LLMs 
 
 ## Model Context Protocol (MCP)
 - [MCP - Anthropic Guide](https://modelcontextprotocol.io/introduction)
+- [Building AI Apps using MCP](https://www.deeplearning.ai/short-courses/mcp-build-rich-context-ai-apps-with-anthropic/)
 - [Awesome MCP Servers - Github](https://github.com/punkpeye/awesome-mcp-servers)
 
 ## Tools
