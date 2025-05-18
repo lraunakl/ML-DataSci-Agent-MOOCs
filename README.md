@@ -138,6 +138,7 @@ A comprehensive collection of free resources to learn everything about AI/ML, LL
 - [AI Engineering](https://www.oreilly.com/library/view/ai-engineering/9781098166298/)
 - [Build a LLM from Scratch](https://www.manning.com/books/build-a-large-language-model-from-scratch)
 - [Prompt Engineering for LLMs](https://www.oreilly.com/library/view/prompt-engineering-for/9781098156145/)
+- [Natural Language Processing with Transformers](https://www.oreilly.com/library/view/natural-language-processing/9781098136789/)
 
 ## YouTube Channels
 - [Andrej Karpathy](https://www.youtube.com/@AndrejKarpathy)
