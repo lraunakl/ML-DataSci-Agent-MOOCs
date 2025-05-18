@@ -1,6 +1,6 @@
 # Awesome AI Resources
 
-A comprehensive collection of free resources to learn everything about AI, LLMs and AI Agents.
+A comprehensive collection of free resources to learn everything about AI/ML, LLMs and Agents.
 
 ## Mathematical Foundations
 - [Essence of Linear Algebra - 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
@@ -60,9 +60,11 @@ A comprehensive collection of free resources to learn everything about AI, LLMs 
 - [A Visual Guide to Mixture of Experts (MoE)](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-mixture-of-experts)
 - [Finetuning Large Language Models](https://magazine.sebastianraschka.com/p/finetuning-large-language-models)
 - [How Transformer LLMs Work](https://www.deeplearning.ai/short-courses/how-transformer-llms-work/)
+- [Building GPT from scratch - Andrej Karpathy](https://www.youtube.com/watch?v=kCc8FmEb1nY)
 - [LLM Course - GitHub](https://github.com/mlabonne/llm-course)
 - [LLM Course - Hugging Face](https://huggingface.co/learn/llm-course/chapter1/1)
 - [Awesome LLM Apps - GitHub](https://github.com/Shubhamsaboo/awesome-llm-apps)
+- [OpenAI Cookbook](https://cookbook.openai.com/)
 
 ### LLM Frameworks
 - [LangChain](https://www.langchain.com/)
@@ -92,19 +94,24 @@ A comprehensive collection of free resources to learn everything about AI, LLMs 
 - [MCP Course - Hugging Face](https://huggingface.co/learn/mcp-course/unit0/introduction)
 - [Awesome MCP Servers - Github](https://github.com/punkpeye/awesome-mcp-servers)
 
-## Tools
-### Chatbots
+## MLOps & Deployment
+- [ML in Production - Coursera](https://www.coursera.org/learn/introduction-to-machine-learning-in-production)
+- [Full Stack Deep Learning](https://fullstackdeeplearning.com/course/2022/)
+- [ML System Design - Stanford](https://stanford-cs329s.github.io/syllabus.html)
+
+### Tools
+- [Streamlit](https://streamlit.io/)
+- [MLflow](https://mlflow.org/docs/latest/index.html)
+
+## Chatbots
 - [ChatGPT](https://chatgpt.com/)
+- [Gemini](https://gemini.google.com/app)
 - [Claude](https://claude.ai/new)
 - [Perplexity](https://www.perplexity.ai/)
 
 ### AI IDEs
 - [Cursor](https://www.cursor.com/)
 - [Windsurf](https://windsurf.com/editor)
-
-## Experiment & Deployment
-- [Streamlit](https://streamlit.io/)
-- [MLflow](https://mlflow.org/)
 
 ## Books
 - [Hands-On Machine Learning](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
@@ -119,6 +126,10 @@ A comprehensive collection of free resources to learn everything about AI, LLMs 
 ## YouTube Channels
 - [Andrej Karpathy](https://www.youtube.com/@AndrejKarpathy)
 - [3Blue1Brown](https://www.youtube.com/@3blue1brown)
+
+## Other Resources
+- [Papers with Code](https://paperswithcode.com/)
+- [Kaggle Competitions](https://www.kaggle.com/competitions)
 
 ## Must-Read AI Papers
 - [Attention Is All You Need](https://arxiv.org/pdf/1706.03762)
