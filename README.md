@@ -35,12 +35,22 @@ A comprehensive collection of free resources to learn everything about AI, LLMs 
 - [PyTorch](https://pytorch.org/)
 - [Keras](https://keras.io/)
 
+## Deep Learning Specializations
+### Computer Vision
+- [Deep Learning for Computer Vision - Stanford](https://cs231n.stanford.edu/)
+### Natural Language Processing (NLP)
+- [NLP Specialization - Coursera](https://www.coursera.org/specializations/natural-language-processing)
+### Reinforcement Learning
+- [Deep RL Course - Hugging Face](https://huggingface.co/learn/deep-rl-course/unit0/introduction)
+- [Deep RL Bootcamp - UC Berkeley](https://sites.google.com/view/deep-rl-bootcamp/lectures)
+
 ## Generative AI
 - [The Building Blocks of Generative AI](https://shriftman.substack.com/p/the-building-blocks-of-generative)
 - [Generative AI for Beginners - Microsoft](https://github.com/microsoft/generative-ai-for-beginners)
 - [Generative AI for Everyone - Coursera](https://www.coursera.org/learn/generative-ai-for-everyone)
 
 ## Large Language Models (LLMs)
+- [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
 - [Large Language Models explained briefly](https://www.youtube.com/watch?v=LPZh9BOjkQs)
 - [Intro to LLMs](https://www.youtube.com/watch?v=zjkBMFhNj_g&pp=ygUDbGxt)
 - [Understanding Large Language Models](https://magazine.sebastianraschka.com/p/understanding-large-language-models)
@@ -51,6 +61,7 @@ A comprehensive collection of free resources to learn everything about AI, LLMs 
 - [Finetuning Large Language Models](https://magazine.sebastianraschka.com/p/finetuning-large-language-models)
 - [How Transformer LLMs Work](https://www.deeplearning.ai/short-courses/how-transformer-llms-work/)
 - [LLM Course - GitHub](https://github.com/mlabonne/llm-course)
+- [LLM Course - Hugging Face](https://huggingface.co/learn/llm-course/chapter1/1)
 - [Awesome LLM Apps - GitHub](https://github.com/Shubhamsaboo/awesome-llm-apps)
 
 ### LLM Frameworks
@@ -70,6 +81,7 @@ A comprehensive collection of free resources to learn everything about AI, LLMs 
 
 ## AI Agents
 - [A Visual Guide to LLM Agents](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-llm-agents)
+- [Agents - Chip Huyen](https://huyenchip.com/2025/01/07/agents.html)
 - [AI Agents Course - Hugging Face](https://huggingface.co/learn/agents-course/)
 - [Building AI Browser Agents - Deeplearning.ai](https://www.deeplearning.ai/short-courses/building-ai-browser-agents/)
 - [GenAI Agents - Github](https://github.com/NirDiamant/GenAI_Agents)
@@ -77,6 +89,7 @@ A comprehensive collection of free resources to learn everything about AI, LLMs 
 ## Model Context Protocol (MCP)
 - [MCP - Anthropic Guide](https://modelcontextprotocol.io/introduction)
 - [Building AI Apps using MCP](https://www.deeplearning.ai/short-courses/mcp-build-rich-context-ai-apps-with-anthropic/)
+- [MCP Course - Hugging Face](https://huggingface.co/learn/mcp-course/unit0/introduction)
 - [Awesome MCP Servers - Github](https://github.com/punkpeye/awesome-mcp-servers)
 
 ## Tools
