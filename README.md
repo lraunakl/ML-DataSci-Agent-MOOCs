@@ -64,11 +64,32 @@ A comprehensive collection of free resources to learn everything about AI/ML, LL
 - [LLM Course - GitHub](https://github.com/mlabonne/llm-course)
 - [LLM Course - Hugging Face](https://huggingface.co/learn/llm-course/chapter1/1)
 - [Awesome LLM Apps - GitHub](https://github.com/Shubhamsaboo/awesome-llm-apps)
-- [OpenAI Cookbook](https://cookbook.openai.com/)
 
-### LLM Frameworks
+### LLM Chatbots
+- [ChatGPT](https://chatgpt.com/)
+- [Gemini](https://gemini.google.com/app)
+- [Claude](https://claude.ai/new)
+- [Perplexity](https://www.perplexity.ai/)
+
+### Open Source LLMs
+- [Llama](https://www.llama.com/)
+- [Deepseek](https://chat.deepseek.com/)
+
+### LLM APIs
+- [OpenAI](https://platform.openai.com/docs/overview)
+- [Anthropic](https://docs.anthropic.com/en/docs/overview)
+- [Gemini - Google](https://ai.google.dev/gemini-api/docs)
+
+### LLM Tools & Frameworks
 - [LangChain](https://www.langchain.com/)
 - [LlamaIndex](https://www.llamaindex.ai/)
+- [Ollama](https://ollama.com/)
+- [Instructor](https://python.useinstructor.com/)
+- [Outlines](https://github.com/dottxt-ai/outlines)
+
+### LLM Based IDEs
+- [Cursor](https://www.cursor.com/)
+- [Windsurf](https://windsurf.com/editor)
 
 ## Prompt Engineering
 - [Google Prompting Essentials](https://www.coursera.org/google-learn/prompting-essentials)
@@ -103,15 +124,9 @@ A comprehensive collection of free resources to learn everything about AI/ML, LL
 - [Streamlit](https://streamlit.io/)
 - [MLflow](https://mlflow.org/docs/latest/index.html)
 
-## Chatbots
-- [ChatGPT](https://chatgpt.com/)
-- [Gemini](https://gemini.google.com/app)
-- [Claude](https://claude.ai/new)
-- [Perplexity](https://www.perplexity.ai/)
-
-### AI IDEs
-- [Cursor](https://www.cursor.com/)
-- [Windsurf](https://windsurf.com/editor)
+## Guides
+- [OpenAI Cookbook](https://cookbook.openai.com/)
+- [Anthropic courses](https://github.com/anthropics/courses/tree/master)
 
 ## Books
 - [Hands-On Machine Learning](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
