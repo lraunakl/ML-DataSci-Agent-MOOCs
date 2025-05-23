@@ -91,6 +91,7 @@ A comprehensive collection of free resources to learn everything about AI/ML, LL
 ### LLM Based IDEs
 - [Cursor](https://www.cursor.com/)
 - [Windsurf](https://windsurf.com/editor)
+- [GitHub Copilot](https://github.com/features/copilot)
 
 ## Prompt Engineering
 - [Google Prompting Essentials](https://www.coursera.org/google-learn/prompting-essentials)
