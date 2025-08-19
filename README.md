@@ -100,6 +100,7 @@ A comprehensive collection of free resources to learn everything about AI/ML, LL
 - [Advanced Prompting Techniques - Instructor](https://python.useinstructor.com/prompting/)
 - [Prompt Engineering Techniques - Github](https://github.com/NirDiamant/Prompt_Engineering)
 - [Getting Structured LLM Output - Deeplearning.ai](https://www.deeplearning.ai/short-courses/getting-structured-llm-output/)
+- [God Tier Prompts](https://www.godtierprompts.com/)
 
 ## Retrieval-Augmented Generation (RAG)
 - [Introduction to RAG - Coursera](https://www.coursera.org/projects/introduction-to-rag)
