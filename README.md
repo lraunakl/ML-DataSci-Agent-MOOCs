@@ -1,4 +1,4 @@
-# Learn AI Engineering
+# ML & DATA SCIENCE Engineering 
 
 A comprehensive collection of free resources to learn everything about AI/ML, LLMs and Agents.
 
